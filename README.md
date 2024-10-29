@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hola, soy Agustin Ledesma 👋
 
-<!--
-**AgustinOLedesma/AgustinOLedesma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un **Analista de Datos recién graduado** con un fuerte interés en transformar datos complejos en información útil para la toma de decisiones. Estoy emocionado por comenzar mi carrera en el análisis de datos y contribuir a proyectos que generen un impacto positivo.
 
-Here are some ideas to get you started:
+## 🔧 Herramientas y Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes de Programación**: Python, SQL
+- **Herramientas de Visualización**: Power BI, Matplotlib, Seaborn
+- **Análisis de Datos**: Pandas, Numpy
+- **Otras Tecnologías**: Git, GitHub, Jupyter Notebooks
+
+## 🌱 Actualmente estoy aprendiendo
+
+- Técnicas avanzadas de machine learning
+- Herramientas de visualización de datos avanzadas
+- Desarrollo de dashboards interactivos
+
+## 📂 Proyectos Destacados
+
+- **[Reporte Adventure Works](https://github.com/AgustinOLedesma/AdventureWorks)**
+- **[Premium Drinks](https://github.com/PremiumDrinks/PremiumDrinks)**
+- **[Fast Food-SQL ](https://github.com/AgustinOLedesma/FastFood)**
+
+## 📫 Conéctate conmigo
+
+- [LinkedIn](https://www.linkedin.com/in/agust%C3%ADn-ledesma-5905082b0/)
+- Correo: ledeagu44@gmail.com
+- [WhatsApp]: +54 9 15 36780841
+
+¡Estoy entusiasmado por aprender y colaborar en proyectos interesantes!
